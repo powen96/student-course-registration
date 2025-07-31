@@ -14,7 +14,7 @@ A Spring Boot application for managing student course registrations with Postgre
 
 ## Prerequisites
 
-- Java 17
+- Java 21
 - PostgreSQL
 - Maven
 
